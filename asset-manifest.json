@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SaramathTorrealba/challenge-2-react/static/css/main.0e170fb8.css",
+    "main.js": "/SaramathTorrealba/challenge-2-react/static/js/main.b899dd3c.js",
+    "static/js/787.047cb95d.chunk.js": "/SaramathTorrealba/challenge-2-react/static/js/787.047cb95d.chunk.js",
+    "static/media/logo.svg": "/SaramathTorrealba/challenge-2-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SaramathTorrealba/challenge-2-react/index.html",
+    "main.0e170fb8.css.map": "/SaramathTorrealba/challenge-2-react/static/css/main.0e170fb8.css.map",
+    "main.b899dd3c.js.map": "/SaramathTorrealba/challenge-2-react/static/js/main.b899dd3c.js.map",
+    "787.047cb95d.chunk.js.map": "/SaramathTorrealba/challenge-2-react/static/js/787.047cb95d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e170fb8.css",
+    "static/js/main.b899dd3c.js"
+  ]
+}
